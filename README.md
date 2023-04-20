@@ -38,7 +38,7 @@ Overall, our analysis provides valuable insights into OList's inventory manageme
 🚀 Let's help OList manage their inventory and reduce costs! 🚀
 
 
-## [Tableau Dashboard](https://public.tableau.com/app/profile/vas1635/viz/MarketingRetailTableaudashboard_16819776511080/MarketBasketAnalysis)
+## Tableau Dashboard: [Link](https://public.tableau.com/app/profile/vas1635/viz/MarketingRetailTableaudashboard_16819776511080/MarketBasketAnalysis)
 
 
 
