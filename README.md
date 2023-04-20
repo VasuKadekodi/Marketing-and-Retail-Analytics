@@ -15,19 +15,24 @@ We conducted market basket analysis to understand customer purchase behavior and
 ### 📉 Reducing Category Items:
 We explored ways to reduce the number of items in a particular category without significantly impacting business. We analyzed sales and inventory data to determine the ideal category depth and identified slow-moving products that can be removed from the category.
 
-### 💡 Recommendations:
+## 💡 Recommendations:
 Based on our analysis, we recommend the following actions to OList:
 
 1️⃣ Focus on top-performing products and categories to increase revenue.
+
 2️⃣ Create bundles or discounts on frequently purchased products to increase sales and customer satisfaction.
+
 3️⃣ Remove slow-moving products from categories to reduce costs and optimize inventory management.
 
 Overall, our analysis provides valuable insights into OList's inventory management and can help the company make data-driven decisions to improve its business performance.
 
 ## 🤖 Tools:
 1️⃣ Excel
+
 2️⃣ Python
+
 3️⃣ Tableau
+
 4️⃣ Power Point
 
 🚀 Let's help OList manage their inventory and reduce costs! 🚀
