@@ -1,5 +1,6 @@
 # 🛍️📦📊💰 OList E-commerce Inventory Management 💰📊📦🛍️
 
+
 ## 🔎 Problem Statement:
 E-commerce companies like OList need to manage their inventory effectively to reduce unnecessary costs. To do this, they must identify the top-performing products and analyze customer purchase behavior. The goal is to identify product categories that can be removed without significantly impacting business.
 
